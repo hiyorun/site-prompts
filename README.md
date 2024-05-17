@@ -1,5 +1,5 @@
 # site-prompts
-Where those random strings located
+A collection of strings/sentences that will randomly picked when my site is loading. These are all iconic phrases from the internet's culture and histories.
 
 ## Contribute
 You can create pull request or create an issue to add more random strings!
